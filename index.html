@@ -62,7 +62,7 @@ body {font-size:16px;}
 		<br>
 		<img src="https://media.discordapp.net/attachments/689608240199500051/693586694976569414/imageonline-co-darkenimage.png" alt="Ding Logo">
 		<br>
-		    <h3 class="w3-padding-64"; style="font-size: 50px"><b>Ding</b>
+		    <h3 class="w3-padding-64"; style="font-size: 50px"><b><a href="https://digitalripple.github.io/DoorDing/">Ding</a></b>
 		</h3>
   </div>
   <div class="w3-bar-block">
@@ -73,7 +73,7 @@ body {font-size:16px;}
 <!-- Top menu on small screens -->
 <header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
   <a href="javascript:void(0)" class="w3-button w3-red w3-margin-right" onclick="w3_open()">☰</a>
-  <span>Ding</span>
+  <span><a href="https://digitalripple.github.io/DoorDing/">Ding</a></span>
 </header>
 <!-- Overlay effect when opening sidebar on small screens -->
 <div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
